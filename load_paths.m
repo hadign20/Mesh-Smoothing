@@ -1,0 +1,1 @@
+addpath(genpath(fullfile(pwd,'libigl-mex\')));
